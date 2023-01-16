@@ -6,3 +6,4 @@ def probius_multi():
     for i in range(1,n+1):
         j=i*b
         print(i,'x',b,'=',j)
+probius_multi()
